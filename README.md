@@ -85,12 +85,5 @@
 
 ###
 
-###
 
-<br clear="both">
-
-<!-- Updated Snake Animation URL -->
-<img src="https://raw.githubusercontent.com/othmancodes/othman/output/snake.svg" alt="Snake animation" />
-
-###
 

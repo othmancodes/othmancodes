@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is OTHMAN and I'm  a Front-End Developer  from MOROCCO</h2>
+<h2 align="left">👋 Hi, I’m Othman Benyahya, a passionate Frontend Developer with over 2 years of experience in building dynamic, user-centric web applications. I specialize in HTML, CSS, JavaScript, React.js, Next.js, and Tailwind CSS, with a keen eye for crafting responsive and visually appealing user interfaces.</h2>
 
 ###
 
